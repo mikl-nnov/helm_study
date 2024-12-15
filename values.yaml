@@ -7,4 +7,4 @@ service:
   type: NodePort
   port: 8080
   targerPort: 8080
-  nodePort: 30088
+  nodePort: 30080
